@@ -1,0 +1,137 @@
+<b>[30.05.2017 13:35]</b> Status of Appointment(s) with id(s):8 changed to confirmed by user:admin
+<b>[30.05.2017 13:39]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:8
+<b>[30.05.2017 13:50]</b> Status of Appointment(s) with id(s):9 changed to confirmed by user:admin
+<b>[30.05.2017 14:00]</b> Reminder message sent to CareemPasan@CareemPasan.CareemPasan for appointment ID:9
+<b>[30.05.2017 14:00]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:11
+<b>[30.05.2017 14:00]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:12
+<b>[30.05.2017 15:00]</b> Reminder message sent to CareemPasan@CareemPasan.CareemPasan for appointment ID:10
+<b>[30.05.2017 23:26]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:13
+<b>[31.05.2017 09:53]</b> Unable to send worker reminder about the appointment ID:8.
+<b>[31.05.2017 09:53]</b> Unable to send worker reminder about the appointment ID:11.
+<b>[31.05.2017 09:53]</b> Unable to send worker reminder about the appointment ID:12.
+<b>[31.05.2017 11:02]</b> Unable to send worker reminder about the appointment ID:9.
+<b>[31.05.2017 11:02]</b> Unable to send worker reminder about the appointment ID:10.
+<b>[31.05.2017 13:37]</b> Reminder message sent to CareemPasan@CareemPasan.CareemPasan for appointment ID:14
+<b>[31.05.2017 14:09]</b> Unable to send worker reminder about the appointment ID:14.
+<b>[31.05.2017 16:03]</b> Unable to send worker reminder about the appointment ID:13.
+<b>[03.06.2017 00:29]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:20
+<b>[03.06.2017 00:29]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:21
+<b>[03.06.2017 12:38]</b> Unable to send worker reminder about the appointment ID:21.
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:22
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:23
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:24
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:25
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:26
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:27
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:28
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:29
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:30
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:31
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:32
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:33
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:34
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:35
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:36
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:37
+<b>[03.06.2017 13:20]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:38
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:22.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:23.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:24.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:25.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:26.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:27.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:28.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:29.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:30.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:31.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:32.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:33.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:34.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:35.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:36.
+<b>[03.06.2017 13:20]</b> Unable to send worker reminder about the appointment ID:37.
+<b>[03.06.2017 14:01]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:39
+<b>[03.06.2017 14:01]</b> Unable to send worker reminder about the appointment ID:38.
+<b>[03.06.2017 14:34]</b> Unable to send worker reminder about the appointment ID:39.
+<b>[03.06.2017 15:58]</b> Unable to send worker reminder about the appointment ID:20.
+<b>[05.06.2017 16:33]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:49
+<b>[05.06.2017 22:55]</b> Confirmation message sent to raed_asabeh@yahoo.com for appointment ID:50
+<b>[05.06.2017 23:02]</b> Reminder message sent to raed_asabeh@yahoo.com for appointment ID:50
+<b>[06.06.2017 11:45]</b> Confirmation message sent to hanadiomari2511@gmail.com for appointment ID:51
+<b>[06.06.2017 11:46]</b> Confirmation message sent to hanadiomari2511@gmail.com for appointment ID:52
+<b>[06.06.2017 13:24]</b> Reminder message sent to hanadiomari2511@gmail.com for appointment ID:51
+<b>[06.06.2017 13:24]</b> Reminder message sent to hanadiomari2511@gmail.com for appointment ID:52
+<b>[06.06.2017 14:32]</b> Unable to send worker reminder about the appointment ID:50.
+<b>[06.06.2017 15:30]</b> Confirmation message sent to bodunjo855@gmail.com for appointment ID:53
+<b>[06.06.2017 15:34]</b> Reminder message sent to bodunjo855@gmail.com for appointment ID:53
+<b>[06.06.2017 15:55]</b> Unable to send worker reminder about the appointment ID:53.
+<b>[06.06.2017 18:03]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:54
+<b>[06.06.2017 18:23]</b> Reminder message sent to bader.alerts@gmail.com for appointment ID:54
+<b>[06.06.2017 18:25]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:55
+<b>[06.06.2017 18:37]</b> Reminder message sent to bader.alerts@gmail.com for appointment ID:55
+<b>[06.06.2017 18:44]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:56
+<b>[06.06.2017 18:47]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:57
+<b>[06.06.2017 18:57]</b> Confirmation message sent to bader.photographer@gmail.com for appointment ID:58
+<b>[06.06.2017 21:44]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:59
+<b>[07.06.2017 01:31]</b> Confirmation message sent to bader.photographer@gmail.com for appointment ID:60
+<b>[07.06.2017 01:52]</b> Reminder message sent to bader.photographer@gmail.com for appointment ID:60
+<b>[07.06.2017 01:53]</b> Confirmation message sent to b0dunj0@mail.ru for appointment ID:61
+<b>[07.06.2017 02:04]</b> Reminder message sent to b0dunj0@mail.ru for appointment ID:61
+<b>[07.06.2017 02:04]</b> Unable to send worker reminder about the appointment ID:61.
+<b>[07.06.2017 09:48]</b> Unable to send worker reminder about the appointment ID:51.
+<b>[07.06.2017 09:48]</b> Unable to send worker reminder about the appointment ID:52.
+<b>[07.06.2017 11:53]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:62
+<b>[07.06.2017 12:07]</b> Reminder message sent to bader.alerts@gmail.com for appointment ID:62
+<b>[07.06.2017 14:21]</b> Unable to send worker reminder about the appointment ID:54.
+<b>[07.06.2017 14:38]</b> Unable to send worker reminder about the appointment ID:55.
+<b>[07.06.2017 15:53]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:63
+<b>[07.06.2017 16:02]</b> Reminder message sent to bader.alerts@gmail.com for appointment ID:63
+<b>[07.06.2017 16:02]</b> Unable to send worker reminder about the appointment ID:63.
+<b>[07.06.2017 21:46]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:64
+<b>[07.06.2017 21:47]</b> Reminder message sent to bader.alerts@gmail.com for appointment ID:64
+<b>[07.06.2017 21:47]</b> Unable to send worker reminder about the appointment ID:60.
+<b>[07.06.2017 23:14]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:65
+<b>[07.06.2017 23:20]</b> Confirmation message sent to hdhdhdh@fjfj.com for appointment ID:66
+<b>[07.06.2017 23:22]</b> Reminder message sent to bader.alerts@gmail.com for appointment ID:65
+<b>[07.06.2017 23:22]</b> Reminder message sent to hdhdhdh@fjfj.com for appointment ID:66
+<b>[08.06.2017 00:13]</b> Confirmation message sent to safadi@gmail.com for appointment ID:67
+<b>[08.06.2017 00:13]</b> Confirmation message sent to hanadiomari2511@gmail.com for appointment ID:68
+<b>[08.06.2017 00:14]</b> Confirmation message sent to raed_asabeh@yahoo.com for appointment ID:69
+<b>[08.06.2017 00:17]</b> Reminder message sent to safadi@gmail.com for appointment ID:67
+<b>[08.06.2017 00:18]</b> Confirmation message sent to Atallaabutaha@gmail.com for appointment ID:70
+<b>[08.06.2017 00:27]</b> Reminder message sent to Atallaabutaha@gmail.com for appointment ID:70
+<b>[08.06.2017 07:22]</b> Unable to send worker reminder about the appointment ID:67.
+<b>[08.06.2017 07:22]</b> Unable to send worker reminder about the appointment ID:70.
+<b>[08.06.2017 10:01]</b> Unable to send worker reminder about the appointment ID:62.
+<b>[08.06.2017 16:12]</b> Unable to send worker reminder about the appointment ID:66.
+<b>[08.06.2017 16:53]</b> Unable to send worker reminder about the appointment ID:65.
+<b>[08.06.2017 17:23]</b> Unable to send worker reminder about the appointment ID:64.
+<b>[08.06.2017 18:37]</b> Confirmation message sent to raed_asabeh@yahoo.com for appointment ID:71
+<b>[08.06.2017 21:16]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:72
+<b>[08.06.2017 21:25]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:73
+<b>[08.06.2017 21:33]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:74
+<b>[08.06.2017 22:08]</b> Confirmation message sent to raed_asabeh@yahoo.com for appointment ID:75
+<b>[09.06.2017 11:36]</b> Reminder message sent to bader.alerts@gmail.com for appointment ID:72
+<b>[09.06.2017 11:36]</b> Reminder message sent to bader.alerts@gmail.com for appointment ID:73
+<b>[09.06.2017 12:35]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:76
+<b>[09.06.2017 12:44]</b> Reminder message sent to bader.alerts@gmail.com for appointment ID:76
+<b>[09.06.2017 16:59]</b> Confirmation message sent to hanadiomari2511@gmail.com for appointment ID:77
+<b>[09.06.2017 17:01]</b> Confirmation message sent to hanadiomari2511@gmail.com for appointment ID:78
+<b>[09.06.2017 17:23]</b> Reminder message sent to hanadiomari2511@gmail.com for appointment ID:77
+<b>[09.06.2017 17:23]</b> Reminder message sent to hanadiomari2511@gmail.com for appointment ID:78
+<b>[09.06.2017 17:39]</b> Confirmation message sent to ar90909@hotmail.com for appointment ID:79
+<b>[09.06.2017 17:41]</b> Confirmation message sent to ar90909@hotmail.com for appointment ID:80
+<b>[09.06.2017 17:52]</b> Confirmation message sent to raed_asabeh@yahoo.com for appointment ID:81
+<b>[09.06.2017 18:05]</b> Confirmation message sent to raed_asabeh@yahoo.com for appointment ID:82
+<b>[09.06.2017 18:13]</b> Confirmation message sent to raed_asabeh@yahoo.com for appointment ID:83
+<b>[09.06.2017 18:14]</b> Confirmation message sent to raed_asabeh@yahoo.com for appointment ID:84
+<b>[09.06.2017 18:17]</b> Confirmation message sent to raed_asabeh@yahoo.com for appointment ID:85
+<b>[09.06.2017 18:18]</b> Confirmation message sent to raed_asabeh@yahoo.com for appointment ID:86
+<b>[09.06.2017 18:27]</b> Confirmation message sent to safadi@gmail.com for appointment ID:87
+<b>[09.06.2017 18:27]</b> Confirmation message sent to safadi@gmail.com for appointment ID:88
+<b>[09.06.2017 18:47]</b> Confirmation message sent to safadi@gmail.com for appointment ID:89
+<b>[09.06.2017 18:50]</b> Confirmation message sent to safadi@gmail.com for appointment ID:90
+<b>[09.06.2017 18:50]</b> Confirmation message sent to safadi@gmail.com for appointment ID:91
+<b>[09.06.2017 18:50]</b> Confirmation message sent to bader.alerts@gmail.com for appointment ID:92
+<b>[09.06.2017 18:51]</b> Confirmation message sent to safadi@gmail.com for appointment ID:93
+

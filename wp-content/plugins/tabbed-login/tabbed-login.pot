@@ -1,0 +1,146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-02 09:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: tabbed-login-shortcode.php:43 tabbed-login-shortcode.php:78
+#: tabbed-login.php:67 tabbed-login.php:109
+msgid "Login"
+msgstr ""
+
+#: tabbed-login-shortcode.php:45 tabbed-login.php:69
+msgid "Register"
+msgstr ""
+
+#: tabbed-login-shortcode.php:47 tabbed-login.php:71
+msgid "Forgot"
+msgstr ""
+
+#: tabbed-login-shortcode.php:53 tabbed-login-shortcode.php:56
+#: tabbed-login.php:78 tabbed-login.php:83
+msgid "Success!"
+msgstr ""
+
+#: tabbed-login-shortcode.php:54 tabbed-login.php:79
+msgid "Check your email for the password and then return to log in."
+msgstr ""
+
+#: tabbed-login-shortcode.php:57 tabbed-login.php:84
+msgid "Check your email to reset your password."
+msgstr ""
+
+#: tabbed-login-shortcode.php:59 tabbed-login.php:88
+msgid "Have an account?"
+msgstr ""
+
+#: tabbed-login-shortcode.php:64 tabbed-login-shortcode.php:92
+#: tabbed-login.php:95 tabbed-login.php:123
+msgid "Username"
+msgstr ""
+
+#: tabbed-login-shortcode.php:68 tabbed-login.php:99
+msgid "Password"
+msgstr ""
+
+#: tabbed-login-shortcode.php:74 tabbed-login.php:105
+msgid " Remember me"
+msgstr ""
+
+#: tabbed-login-shortcode.php:88 tabbed-login.php:119
+msgid "Register for this site!"
+msgstr ""
+
+#: tabbed-login-shortcode.php:89 tabbed-login.php:120
+msgid "Sign up now for the good stuff."
+msgstr ""
+
+#: tabbed-login-shortcode.php:96 tabbed-login.php:127
+msgid "Your Email"
+msgstr ""
+
+#: tabbed-login-shortcode.php:101 tabbed-login.php:132
+msgid "Sign up!"
+msgstr ""
+
+#: tabbed-login-shortcode.php:117 tabbed-login.php:143
+msgid "Lost Your Password?"
+msgstr ""
+
+#: tabbed-login-shortcode.php:118 tabbed-login.php:144
+msgid "Enter your username or email to reset your password."
+msgstr ""
+
+#: tabbed-login-shortcode.php:121 tabbed-login.php:147
+msgid "Username or Email"
+msgstr ""
+
+#: tabbed-login-shortcode.php:126 tabbed-login.php:152
+msgid "Reset my password"
+msgstr ""
+
+#: tabbed-login-shortcode.php:129 tabbed-login.php:153
+msgid "A message was sent to your email address."
+msgstr ""
+
+#: tabbed-login-shortcode.php:142
+msgid "Welcome, "
+msgstr ""
+
+#: tabbed-login-shortcode.php:154
+msgid "You are logged in as "
+msgstr ""
+
+#: tabbed-login-shortcode.php:156 tabbed-login.php:177
+msgid "Log out"
+msgstr ""
+
+#: tabbed-login-shortcode.php:158
+msgid "Admin"
+msgstr ""
+
+#: tabbed-login-shortcode.php:160
+msgid "Profile"
+msgstr ""
+
+#: tabbed-login.php:41
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr ""
+
+#: tabbed-login.php:193
+msgid "No option available for this widget."
+msgstr ""
+
+#: tabbed-login.php:194
+msgid "Note : Do not put the same widget twice in a page."
+msgstr ""
+
+#. Name of the plugin
+msgid "Tabbed Login Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easily add an beautifull tabbed login to your site's sidebar."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wordpress.org/extend/plugins/tabbed-login/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Vivek Marakana"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://htmlcsstutor.com"
+msgstr ""

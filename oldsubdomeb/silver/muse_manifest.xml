@@ -1,0 +1,106 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="silver.mindsts.com" resolutions="1x" timestamp="1493399615799">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="380684046" ref="silver-package:register"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="silver-package:register"/>
+    <file name="silver-package.css" crc="77692269" ref="silver-package"/>
+    <file name="nomq_silver-package.css" crc="6247313" ref="silver-package"/>
+    <file name="register.css" crc="340752407" ref="register"/>
+    <file name="nomq_register.css" crc="164848700" ref="register"/>
+    <file name="index.css" crc="42530654" ref="index"/>
+    <file name="nomq_index.css" crc="4235814347" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:silver-package:register"/>
+    <file name="museutils.js" crc="4232573551" ref="index:silver-package:register"/>
+    <file name="whatinput.js" crc="86476730" ref="index:silver-package:register"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:silver-package:register"/>
+    <file name="webpro.js" crc="3770351119" ref="index:register"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:register"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:silver-package:register"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:silver-package:register"/>
+    <file name="require.js" crc="4234670167" ref="index:silver-package:register"/>
+    <file name="form_check.php" crc="3841221102" ref="register"/>
+    <file name="form_throttle.php" crc="4048049783" ref="register"/>
+    <file name="form_process.php" crc="3899230280" ref="register"/>
+    <file name="form-u1586.php" crc="351790856" ref="register"/>
+  </folder>
+  <folder name="images">
+    <file name="minds-car-services-banner.jpg" crc="4121950471" seo="true" ref="index:silver-package:register">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+      <caption webpage="silver-package" alt=""/>
+      <caption webpage="silver-package" alt=""/>
+      <caption webpage="silver-package" alt=""/>
+      <caption webpage="silver-package" alt=""/>
+      <caption webpage="silver-package" alt=""/>
+    </file>
+    <file name="silver.png" crc="3808090357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="break-point2.jpg" crc="3837183047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="car-green-bg.jpg" crc="31139977" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="car-green-bg986x658.jpg" crc="174999392" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:silver-package:register"/>
+    <file name="silver-package.jpg" crc="4208305447" seo="true" ref="silver-package">
+      <caption webpage="silver-package" alt=""/>
+      <caption webpage="silver-package" alt=""/>
+    </file>
+    <file name="silver-package-crop-u5153.jpg" crc="4075711607" seo="true" ref="silver-package">
+      <caption webpage="silver-package" alt=""/>
+    </file>
+    <file name="silver-package-crop-u51532.jpg" crc="3922869162" seo="true" ref="silver-package">
+      <caption webpage="silver-package" alt=""/>
+    </file>
+    <file name="silver-package313x572.jpg" crc="3813796796" seo="true" ref="silver-package">
+      <caption webpage="silver-package" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="11628784374_51e290f94b_k.jpg" crc="4114297112" ref="register">
+      <caption webpage="register" alt=""/>
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="11628784374_51e290f94b_k726x484.jpg" crc="3822510607" ref="register">
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="careem-logo.svg" crc="220216751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="careem-logo_poster_.png" crc="3991177628" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3851890321" seo="true" mt="1493398973086" redirect="true"/>
+  <file name="silver-package.html" crc="3791712383" seo="true" mt="1493399579526" redirect="true"/>
+  <file name="register.html" crc="4152169610" seo="true" mt="1493399579526" redirect="true"/>
+</manifest>

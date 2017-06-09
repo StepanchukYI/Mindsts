@@ -1,0 +1,20 @@
+Parameters: bodunjo855@gmail.com rootttt          
+Function name: auth
+Response text: "Failed password"
+Date: Fri, 12 May 2017 16:54:11 +0200
+----------------------------------------------------------
+Parameters: bodunjo855@gmail.com rootttt1          
+Function name: auth
+Response text: {"user_id":"28","email":"bodunjo855@gmail.com","email_2":"fsdfsd@mads.ru","phone":"+380953866616","password":"rootttt1","name":"Evgeniy","surname":"Stepanchuk","birth_day":"30","birth_month":"09","birth_year":"1996","sex":"1","facebook_id":"","google_id":"","multi_photo":"http:\/\/37.57.92.40\/trustme\/class\/picture\/user_photo\/id6_large.jpeg","mid_photo":"http:\/\/37.57.92.40\/trustme\/class\/picture\/user#_photo\/id6#_medium.jpeg","single_photo":"http:\/\/37.57.92.40\/trustme\/class\/picture\/user#_photo\/id6#_small.jpeg","loc_coords":"","time_zone":"","online_status":"1","reg_date":"0000-00-00 00:00:00","last_visit":"2017-05-12 04:05:14","balance":"0","rate":"0","country":"Ucraine","city":"Dnepro","temp_code":"964490"}
+Date: Fri, 12 May 2017 16:54:14 +0200
+----------------------------------------------------------
+Parameters: bodunjo855@gmail.com rootttt          
+Function name: auth
+Response text: "Failed password"
+Date: Fri, 12 May 2017 21:59:17 +0200
+----------------------------------------------------------
+Parameters: bodunjo855@gmail.com rootttt1          
+Function name: auth
+Response text: {"user_id":"28","email":"bodunjo855@gmail.com","email_2":"fsdfsd@mads.ru","phone":"+380953866616","password":"rootttt1","name":"Evgeniy","surname":"Stepanchuk","birth_day":"30","birth_month":"09","birth_year":"1996","sex":"1","facebook_id":"","google_id":"","multi_photo":"http:\/\/37.57.92.40\/trustme\/class\/picture\/user_photo\/id6_large.jpeg","mid_photo":"http:\/\/37.57.92.40\/trustme\/class\/picture\/user#_photo\/id6#_medium.jpeg","single_photo":"http:\/\/37.57.92.40\/trustme\/class\/picture\/user#_photo\/id6#_small.jpeg","loc_coords":"","time_zone":"","online_status":"1","reg_date":"0000-00-00 00:00:00","last_visit":"2017-05-12 09:05:21","balance":"0","rate":"0","country":"Ucraine","city":"Dnepro","temp_code":"964490"}
+Date: Fri, 12 May 2017 21:59:21 +0200
+----------------------------------------------------------
